@@ -4,7 +4,7 @@
 THE SPARKS FOUNDATION TASKS:-
   
   1. DS-1
-        Prediction using Supervised ML
+        Task 1- Prediction using Supervised ML
 
         (Level - Beginner)
 
@@ -13,7 +13,7 @@ THE SPARKS FOUNDATION TASKS:-
          ● Used Python to perform this task
       
   2. DS-2
-        Prediction using Unsupervised ML
+        Task 2- Prediction using Unsupervised ML
 
         (Level - Beginner)
 
@@ -22,7 +22,7 @@ THE SPARKS FOUNDATION TASKS:-
          ● Used Python to perform this task
         
   3. DS-3
-        Exploratory Data Analysis - Retail
+        Task 3- Exploratory Data Analysis - Retail
 
         (Level - Beginner)
 
@@ -30,3 +30,11 @@ THE SPARKS FOUNDATION TASKS:-
          ● As a business manager, try to find out the weak areas where you can
          work to make more profit.
          ● What all business problems you can derive by exploring the data?
+   
+   4. DS-4
+         Task 4: Exploratory Data Analysis - Terrorism
+         
+         (Level - Intermediate)
+         
+          ● Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism
+          ● As a security/defense analyst, try to find out the hot zone of terrorism.
